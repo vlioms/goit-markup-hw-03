@@ -292,3 +292,7 @@ a {
     color: #f4f4fd;
     max-width: 264px;
 }
+
+.footer-logo {
+    display: inline-block;
+}
