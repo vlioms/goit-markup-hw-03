@@ -231,6 +231,14 @@ a {
     display: block;
 }
 
+.team-title {
+    text-align: center;
+}
+
+.team-text {
+    text-align: center;
+}
+
 .team-section {
     background-color: #f4f4fd;
     text-transform: capitalize;
