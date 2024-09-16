@@ -42,14 +42,22 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: #4d5ae5;
 
+}
+
+.logo-part {
+    color: #2e2f42;
 }
 
 
 .footer-logo {
     margin-bottom: 16px;
 
+}
+
+.logo-part-footer {
+    color: #f4f4fd;
 }
 
 .header-logo {
@@ -210,6 +218,15 @@ a {
 
 }
 
+.team-text-ourt {
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 /*============ Our Team Styles ============ */
 .team-list {
     display: flex;
@@ -255,7 +272,7 @@ a {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: left;
+    text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
